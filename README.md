@@ -39,7 +39,7 @@
 
 ---
 
-
+<img align="left" alt="jaiswalrahul2409's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jaiswalrahul2409&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/jaiswalrahul_rj
 [instagram]: https://instagram.com/jaiswalrahul.rj
