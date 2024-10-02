@@ -6,7 +6,7 @@
 ## I'm not a student anymore :)
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: To give my best for the new world that I'm going to step in 
+- 🥅 2024 Goals: To give my best for the new world that I'm going to step in 
 - ⚡ Fun fact: I ❤️ 🐶s
 
 
